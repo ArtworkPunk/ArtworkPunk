@@ -5,9 +5,9 @@
 [![Java](https://img.shields.io/badge/-Java-1e2124?style=for-the-badge&logo=Java&logocolor=9D54D)](https://www.java.com)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-1e2124?style=for-the-badge&logo=JavaScript&logocolor=9D54D)](https://www.javascript.com)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-1e2124?style=for-the-badge&logo=Nodejs&logocolor=9D54D)](https://nodejs.org)
-[![HTML](https://img.shields.io/badge/-HTML-1e2124?style=for-the-badge&logo=HTML5&logocolor=9D54D)](https://artworkpunk.github.io)
-[![CSS](https://img.shields.io/badge/-CSS-1e2124?style=for-the-badge&logo=CSS&logocolor=9D54D)](https://artworkpunk.github.io)
-[![VisualStudio](https://img.shields.io/badge/-CSharp-1e2124?style=for-the-badge&logo=c#&logocolor=9D54D)](https://artworkpunk.github.io)
+[![HTML](https://img.shields.io/badge/-HTML-1e2124?style=for-the-badge&logo=HTML5&logocolor=9D54D)](https://vscode.dev/)
+[![CSS](https://img.shields.io/badge/-CSS-1e2124?style=for-the-badge&logo=CSS&logocolor=9D54D)](https://vscode.dev/)
+[![C#](https://img.shields.io/badge/-CSharp-1e2124?style=for-the-badge&logo=c#&logocolor=9D54D)](https://vscode.dev/)
 
 
 ### Links for social networks.
