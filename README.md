@@ -7,7 +7,7 @@
 [![NodeJS](https://img.shields.io/badge/-NodeJS-1e2124?style=for-the-badge&logo=Nodejs&logocolor=9D54D)](https://nodejs.org)
 [![HTML](https://img.shields.io/badge/-HTML-1e2124?style=for-the-badge&logo=HTML5&logocolor=9D54D)](https://artworkpunk.github.io)
 [![CSS](https://img.shields.io/badge/-CSS-1e2124?style=for-the-badge&logo=CSS&logocolor=9D54D)](https://artworkpunk.github.io)
-[![VisualStudio](https://img.shields.io/badge/-CSS-1e2124?style=for-the-badge&logo=ZXC&logocolor=9D54D)](https://artworkpunk.github.io)
+[![VisualStudio](https://img.shields.io/badge/-CSharp-1e2124?style=for-the-badge&logo=c#&logocolor=9D54D)](https://artworkpunk.github.io)
 
 
 ### Links for social networks.
