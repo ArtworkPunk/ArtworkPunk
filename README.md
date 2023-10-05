@@ -11,9 +11,8 @@
 
 
 ### Links for social networks.
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1e2124?style=for-the-badge&logo=VK&logocolor=0077FF)](https://vk.com/aevoa)
-[![Instagram](https://img.shields.io/badge/-Instagram-1e2124?style=for-the-badge&logo=Instagram&logocolor=B4068E)](https://www.instagram.com/artworkpunk/)
-[![Discord](https://img.shields.io/badge/-Discord-1e2124?style=for-the-badge&logo=Discord&logocolor=7289da)](https://discord.io/FunTV)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1e2124?style=for-the-badge&logo=VK&logocolor=0077FF)](https://vk.com/artworkpunk)
+[![Discord](https://img.shields.io/badge/-Twitch-1e2124?style=for-the-badge&logo=Twitch&logocolor=7289da)](https://www.twitch.tv/artworkpunk)
 
 ### My stats.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtworkPunk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
