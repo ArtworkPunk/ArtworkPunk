@@ -1,4 +1,4 @@
-![punk](https://user-images.githubusercontent.com/67797794/156925654-a2a1aac2-2ae1-4119-83f3-6b6e3bf112b5.png)
+![punk](https://github.com/user-attachments/assets/84e079b1-ffe2-4fa4-bdb5-d8ea921de6cd)
 ## I'm Self-taught Developer and Open Source Hunter.
 ### What programming languages have I worked with.
 [![Python](https://img.shields.io/badge/-Python-1e2124?style=for-the-badge&logo=Python&logocolor=065535)](https://www.python.org)
