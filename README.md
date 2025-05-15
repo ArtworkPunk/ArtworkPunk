@@ -1,19 +1,50 @@
+<!-- ENTER PROFILE -->
 ![punk](https://github.com/user-attachments/assets/84e079b1-ffe2-4fa4-bdb5-d8ea921de6cd)
-## I'm Self-taught Developer and Open Source Hunter.
-### What programming languages have I worked with.
-[![Python](https://img.shields.io/badge/-Python-1e2124?style=for-the-badge&logo=Python&logocolor=065535)](https://www.python.org)
-[![Java](https://img.shields.io/badge/-Java-1e2124?style=for-the-badge&logo=Java&logocolor=9D54D)](https://www.java.com)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-1e2124?style=for-the-badge&logo=JavaScript&logocolor=9D54D)](https://www.javascript.com)
-[![NodeJS](https://img.shields.io/badge/-NodeJS-1e2124?style=for-the-badge&logo=Nodejs&logocolor=9D54D)](https://nodejs.org)
-[![HTML](https://img.shields.io/badge/-HTML-1e2124?style=for-the-badge&logo=HTML5&logocolor=9D54D)](https://vscode.dev/)
-[![CSS](https://img.shields.io/badge/-CSS-1e2124?style=for-the-badge&logo=CSS&logocolor=9D54D)](https://vscode.dev/)
-[![C#](https://img.shields.io/badge/-CSharp-1e2124?style=for-the-badge&logo=c#&logocolor=9D54D)](https://vscode.dev/)
 
 
-### Links for social networks.
+<!-- Terminal intro -->
+## 🔄 Terminal enter.
+```bash
+---------------------------------------------------------------
+> Initializing profile...
+> Welcome to the digital frontier.
+> User: ArtworkPunk 
+> Role: Cyber-samurai dev | Open-source scavenger | Code artist
+---------------------------------------------------------------
+
+```
+
+### ⚡ About Me ⚡
+##  👋 I'm Self-taught Developer and Open Source Hunter.
+### 🛠️ Tech Stack. What programming languages have I worked with. 
+
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![HTML](https://skillicons.dev/icons?i=html)](https://vscode.dev/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://vscode.dev/)
+[![C#](https://skillicons.dev/icons?i=vscode)](https://vscode.dev/)
+
+
+### ℹ️ Links for social networks.
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1e2124?style=for-the-badge&logo=VK&logocolor=0077FF)](https://vk.com/artworkpunk)
 [![Discord](https://img.shields.io/badge/-Twitch-1e2124?style=for-the-badge&logo=Twitch&logocolor=7289da)](https://www.twitch.tv/artworkpunk)
 
-### My stats.
+### 📈 GitHub Stats.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtworkPunk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtworkPunk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## 🔄 Terminal Exit.
+
+```bash
+---------------------------------------------------------------
+> profile.exe --exit
+> logging out...
+> connection terminated.
+---------------------------------------------------------------
+
+```
