@@ -29,7 +29,6 @@
 
 
 ### ℹ️ Links for social networks.
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1e2124?style=for-the-badge&logo=VK&logocolor=0077FF)](https://vk.com/artworkpunk)
 [![Discord](https://img.shields.io/badge/-Twitch-1e2124?style=for-the-badge&logo=Twitch&logocolor=7289da)](https://www.twitch.tv/artworkpunk)
 
 ### 📈 GitHub Stats.
