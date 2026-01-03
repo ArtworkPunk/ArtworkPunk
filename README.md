@@ -1,7 +1,11 @@
 <!-- ENTER PROFILE -->
 ![punk](https://github.com/user-attachments/assets/84e079b1-ffe2-4fa4-bdb5-d8ea921de6cd)
 
+<div align="center">
 
+# 🖥️ ARTWORKPUNK // CORPORATE_OS_V2.0
+### [ STATUS: ONLINE ] [ AUTH: LEVEL_05 ] [ LOC: NIGHT_CITY ]
+**NEVER FADE AWAY**
 <!-- Terminal intro -->
 ## 🔄 Terminal enter.
 ```bash
@@ -14,10 +18,12 @@
 
 ```
 
+
 ### ⚡ About Me ⚡
 ##  👋 I'm Self-taught Developer and Open Source Hunter.
-### 🛠️ Tech Stack. What programming languages have I worked with. 
+### 🕹️ Interests: Cybersecurity, Game Architecture, Visual Arts.
 
+## 🛠️ Tech Stack. What programming languages have I worked with. 
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
@@ -29,11 +35,9 @@
 
 
 ### ℹ️ Links for social networks.
-[![Twitch](https://img.shields.io/badge/-Twitch-1e2124?style=for-the-badge&logo=Twitch&logocolor=7289da)](https://www.twitch.tv/artworkpunk)
-
-### 📈 GitHub Stats.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtworkPunk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtworkPunk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitch](https://img.shields.io/badge/-Twitch-1e2124?style=for-the-badge&logo=Twitch&logocolor=101)](https://www.twitch.tv/artworkpunk)
+[![Steam](https://img.shields.io/badge/-Steam-1e2124?style=for-the-badge&logo=Steam&logocolor=101)](https://steamcommunity.com/id/svgg/)
+[![Youtube](https://img.shields.io/badge/-Youtube-1e2124?style=for-the-badge&logo=Youtube&logocolor=101)](https://www.youtube.com/@ArtworkPunk)
 
 
 ## 🔄 Terminal Exit.
