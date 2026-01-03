@@ -29,7 +29,7 @@
 
 
 ### ℹ️ Links for social networks.
-[![Discord](https://img.shields.io/badge/-Twitch-1e2124?style=for-the-badge&logo=Twitch&logocolor=7289da)](https://www.twitch.tv/artworkpunk)
+[![Twitch](https://img.shields.io/badge/-Twitch-1e2124?style=for-the-badge&logo=Twitch&logocolor=7289da)](https://www.twitch.tv/artworkpunk)
 
 ### 📈 GitHub Stats.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtworkPunk&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
